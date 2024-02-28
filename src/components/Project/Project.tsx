@@ -18,20 +18,20 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://kameleon.co.in/" target="_blank" rel="noreferrer">
+                <a href="https://amrit1255.github.io/Website/index.html" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Kameleon - Cloth Selling Site</h3>
+              <h3>VorTech - Internship Provider</h3>
               <p>
-              This website sells men's cloth products and helps men look their best. It is easy to find what you need, whether it's cloth shirts, pants, or accessories. The site is useful for men who want to look their best and need some help.
+              This is Website who provide reliable, efficient delivery with high-caliber engineers & finely-tuned software development processes.We Believe In Leadership to lead the technology to build a better future Integrity to follow truth and be real Accountability for our every commitment..
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Shopify</li>
+                <li>Web development</li>
               </ul>
             </footer>
           </div>
@@ -42,21 +42,23 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://madewithluv.in/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Amrit1255/CITKMedical-System" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>MadeWithLuv - HomeDecor Site</h3>
+              <h3>CIT Medical Management System</h3>
               <p>
-              This website sells home decor products and helps people decorate their homes. It is easy to find what you need, whether it's furniture or decorations. The site is useful for people who want to make their homes look nice and need some help.
+              CITMedical is an dynamic Website developed to manage the different functions related Pharmacy and provide all information Related to Pharmacy Management System to our Institute.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>
-                <li>Woocommerce</li>
+                <li>PHP</li>
+                <li>HTML</li>
+                <li>MYSQL</li>
+                <li>CSS</li>
               </ul>
             </footer>
           </div>
@@ -67,21 +69,21 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://justmedicalbooks.com/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Amrit1255/Expense-Tracker" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>MedicalBooks - Book Selling Site</h3>
+              <h3>Expense-Tracker</h3>
               <p>
-              This website sells medical books online and is popular with medical students. Medical students use it to buy books and acquire knowledge. The site has all kinds of medical books in one place.
+              This is a type of a webpage in which you can add your Expence of daily basis and make it in Pdf and Store in Your System . in This The Total Amount has been calculated Automatically ..
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>
-                <li>Woocommerce</li>
+                <li>Frontend Development</li>
+                <li>using api</li>
               </ul>
             </footer>
           </div>
@@ -116,20 +118,22 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://drrohitdamor.com" target="_blank" rel="noreferrer">
+                <a href="https://amrit1255.github.io/Language-Translator-/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Dr.Rohit Damor - Online Appointment Booking Site</h3>
+              <h3>Language-Translator</h3>
               <p>
-              This website allows people to easily book appointments with you online. It takes just a minute to schedule a meeting. This kind of site is helpful for booking appointments and not missing any potential clients. You should try this website to see how convenient and efficient it is.
+              This Is A type of a google translation Webpage in which all the language of india like Hindi , English , Bhojpuri , Maithli , marathi , Assamese . Bengali and many more language has been added there. You can Just Open The page and write text in any Language and than covert it into your Desire Language.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Java Script</li>
               </ul>
             </footer>
           </div>
@@ -140,23 +144,21 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://velocityai.vinayaksingh.com/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Amrit1255/Covid-19-Data-Analysis-Visualization" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>VeloCityAI</h3>
+              <h3>Covid-19-Data-Analysis-Visualization</h3>
               <p>
-              VelocityAI is a website that allows users to get instant answers to any question and generate stunning AI pictures using OpenAI's GPT-3 and DALL-E model.With VelocityAI, users can type in text-based prompts and receive a corresponding response.
+              The first project of our data visualization studies is the COVID-19 data analysis project. In this project, we analyzed the data of the COVID-19 pandemic, which started in the first month of 2020 and still continues to affect the world, on the basis of countries. You can find the brief details of the project we realized in 3 stages in the readme file. We have tried to explain the details of the project step by step below. We wish you healthy days..
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React</li>
-                <li>Typescript</li>
-                <li>Html</li>
-                <li>css</li>
+                <li>Jupyter Notebook</li>
+                <li>GIt</li>
               </ul>
             </footer>
           </div>
@@ -191,20 +193,21 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://mayatmaj.com/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Amrit1255/Potato--Leaf-Disease-Classification" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Mayatmaj - Film Production Site</h3>
+              <h3>Potato-Leaf-Disease-Classification</h3>
               <p>
-              This agency website promotes post production, virtual production, and video marketing services. It shows previous client work and reviews to get more business. If you need help with production, this website can give you information and connect you with the right people.
+              Develop a system that can classify and detect leaf diseases in potato plants based on deep learning. This system can help farmers and agricultural researchers to get accurate and fast diagnose results of disease in plants, especially in potato plant..
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>              
+                <li>Python</li>
+                <li>Jupyter Notebook</li>              
               </ul>
             </footer>
           </div>
